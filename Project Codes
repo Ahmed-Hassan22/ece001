@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<Head>
+<Title>Home Page</title>
+</Head>
+<body>
+<style>
+h1 {text-align: center;}
+
+<h1>Programming Language</h1>
+
+	
+	
+</style>	
+<h1 style="color:O;"><strong> Programming Language</strong></h1>
+ 
+	<p> Programming language is important because it defines the relationship, semantics and grammar which allows the programmers to effectively
+	communicate with the machines that they program.
+
+A programming language serves several purposes
+You can instruct the computer what to do in a human-readable form
+Allows the programmer to structure the instructions into functions, procedures, etc.
+This also allows the program to be broken into "chunks" which can be developed by a group of developers
+
+Provides portability - the low-level instructions of one computer will be different from that of another computer.
+ 
+
+Computer programmers have a full understanding of the how and why of computer systems, including system limitations,
+ and can set realistic expectations and work around those limitations to fully maximize the use of the equipment and its accessories.
+
+     Programming, especially in web development, has allowed new interactive web applications that have access to 
+	 system resources and provide the same level of control as desktop applications. Used on online learning platforms,
+	 these applications have allowed distance-learning programs to take off. Today, almost all major learning institutions have 
+	 some form of online learning implementation, thanks to computer programming.
+
+      Computer programming principles implemented today will likely influence how technologies such as voice-recognition,
+	  artificial intelligence and other sophisticated technologies will change in the future and how they will be applied
+	  to our day-to-day lives. For example, the trend toward automating Internet searches and purchases to be more localized is ongoing.
+	  While the hardware platforms developed will play a major role, computer technology will likely be at the center of it all and programming
+	  future systems will be an important aspect.
+
+Computer programmers have a full understanding of the how and why of computer systems, including system limitations, and can set
+ realistic expectations and work around those limitations to fully maximize the use of the equipment and its accessories.
+
+No matter what type of job a computer programmer fulfills, he/she will have general responsibilities to perform in their role
+ as computer programmer. The first is to develop new computer programming methods. These may include anywhere from basic computer
+ programming methods to more in-depth methods. Another general responsibility which a computer programmer must undertake in his/her daily
+ job role is the development of programs themselves. This is an extremely important concept associated with the role of a computer
+ programmer as these are the individuals who construct the useful programs which are used by many.
+
+Another general responsibility of a computer programmer is to consult with outside parties in relation to the construction of 
+computer programming methods and the programs themselves. Lastly, computer programmers must follow the progress of programs to ensure that 
+they are operating correctly and fix any program errors that might occur along the way.
+
+First thing what is computer programming? It’s nothing but a sequence of instructions to enable the computer to do something.
+ It does because if you are working in IT Company (after your graduation) then the thing which matters is: "How can you save 
+ the efforts of other people (Customers) so that they will reward you". You can do this only if you automate the process which individual have to perform manually. This can be done by programming only.
+
+So what you are thinking. It’s still unclear to you.
+
+Knowledge of computer programming habituates your mind to thinking in a sensible, common sense manner
+ and that approach will benefit anyone in the information technology field. The ability to think rationally 
+ and use logic  when making decisions in.
+
+Today, most people don't need to know how a computer works.  Most people can simply turn on a computer or 
+a mobile phone and point at some little graphical object on the display, click a button or swipe a finger or two, and the computer does something.
+  An example would be to get weather information from the net and display it.  How to interact with a computer
+  program is all the average person needs to know.  </p> 
+ 
+<hr/>
+<button type="button" onclick="alert('This Applicathion discuss The Programing Language and its  Types , Characters , Compaines and histories')">The Project</button>
+   <button/> <A href="Companies.HTML"> Companies</button>
+   <button/> <A href="Characters.HTML"> Characters</button>
+   <button/> <A href="Programming Language 1.HTML"> History</button>
+    <button/> <A href="Companies.HTML"> Logos</button>
+	<button/> <A href="Traditional .HTML"> Types </button>
+</body>
+</html>
